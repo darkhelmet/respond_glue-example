@@ -1,0 +1,2 @@
+class WeirdWidgetsController < WidgetsController
+end

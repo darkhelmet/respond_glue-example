@@ -1,0 +1,2 @@
+class FancyWidget < Widget
+end

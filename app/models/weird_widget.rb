@@ -1,0 +1,2 @@
+class WeirdWidget < Widget
+end

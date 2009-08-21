@@ -1,0 +1,2 @@
+class FancyWidgetsController < WidgetsController
+end
